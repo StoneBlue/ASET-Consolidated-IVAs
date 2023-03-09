@@ -1,12 +1,12 @@
 {
 	"NAME": "ASET Consolidated Stock Replacement IVAs",
-	"URL": "https://raw.githubusercontent.com/StoneBlue/ASET-Consolidated-IVAs/main/GameData/ASET/ASET_StockRpl_IVAs/ASET_StockRpl_IVAs.version",
+	"URL": "https://github.com/StoneBlue/ASET-Consolidated-IVAs/blob/main/GameData/ASET/ASET_StockRpl_IVAs/ASET_StockRpl_IVAs.version",
 	"DOWNLOAD": "https://spacedock.info/mod/3241/ASET%20Consolidated%20Stock%20Replacement%20IVAs",
 	"VERSION":
 	{
 		"MAJOR": 2,
 		"MINOR": 0,
-		"PATCH": 0,
+		"PATCH": 1,
 
 	},
 	"KSP_VERSION_MIN":

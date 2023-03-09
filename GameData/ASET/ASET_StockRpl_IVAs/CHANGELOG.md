@@ -2,6 +2,23 @@
 ASET Consolidated Stock Replacement IVAs Pack by Alexustas, adopted by Stone Blue
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
+2023-03-09
+
+v2.0.1
+
+- Changes:
+
+  - .version file still broken as far as KSPAVC support; reverting link to see if that does anything
+  - Renamed Pod model file
+  - Copied over/added FreeIVA collider model, for future merge into base internal model
+  - Added FreeIVA support for Mk1-2.3 Pod, as it does not use stock models
+  - Added Reviva support, to differentiate between ASET Consolidated & original ASET IVA packs
+  - Updated RPM support
+  - Updated & renamed internals cfgs
+  - Renamed INTERNAL names, updated model URLs
+  - Updated forum thread to note that CKAN support is broken. Pack needs to be downloaded & installed manually now
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
 2023-02-11
 
 v2.0.0
